@@ -1,0 +1,23 @@
+{
+  "About": "பற்றி",
+  "Contact": "தொடர்பு",
+  "Projects": "திட்டங்கள்",
+  "Blogs": {
+    "title": "பதிவுகள்",
+    "posts": [
+      {
+        "id": 1,
+        "title": "React சிறந்த பயிற்சிகள்",
+        "description": "React வடிவமைப்பில் பொருத்தமான பிட்டல்கள் மற்றும் சிறந்த பயிற்சிகள் பற்றிய பேசுகிறது.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "title": "Next.js டிப்ஸ் மற்றும் குறிப்புகள்",
+        "description": "Next.js பயன்படுத்தும் வழிகள் மற்றும் குறிப்புகளை பகிருகிறது.",
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  },
+  "Home": "முகப்பு"
+}

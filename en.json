@@ -1,0 +1,23 @@
+{
+  "About": "About",
+  "Contact": "Contact",
+  "Projects": "Projects",
+  "Blogs": {
+    "title": "Blog Posts",
+    "posts": [
+      {
+        "id": 1,
+        "title": "React Best Practices",
+        "description": "Discussing common pitfalls and best practices in React development.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "title": "Next.js Tips and Tricks",
+        "description": "Sharing insights and tips for optimizing Next.js applications.",
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  },
+  "Home": "Home"
+}
